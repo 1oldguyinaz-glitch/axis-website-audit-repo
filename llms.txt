@@ -1,0 +1,36 @@
+diff --git a/llms.txt b/llms.txt
+new file mode 100644
+index 0000000..86e5623
+--- /dev/null
++++ b/llms.txt
+@@ -0,0 +1,30 @@
++# Axis Website Growth Audit
++
++> Axis provides free, personalized website audits for small businesses. Each AI-assisted, founder-reviewed audit evaluates messaging clarity, mobile usability, trust signals, SEO fundamentals, and conversion flow, then delivers prioritized recommendations and practical quick wins.
++
++Axis helps business owners identify what may be costing their website leads, understand which improvements matter most, and choose the smallest complete solution for their needs.
++
++## Start Here
++
++- [Request a Free Website Growth Audit](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#audit-form): Submit a business website for a free personalized review.
++- [What the Website Audit Includes](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Review the website scorecard, conversion issues, quick wins, and fit-based recommendations.
++- [How the Audit Process Works](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#process): Learn how Axis reviews a website and delivers a prioritized action plan.
++
++## Website Audit Topics
++
++- [Website Messaging and Clarity](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Evaluation of whether visitors quickly understand the business, offer, and next step.
++- [Website Conversion Optimization](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Identification of friction, weak calls to action, confusing navigation, and lost-lead opportunities.
++- [Mobile Website Usability](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Review of the mobile experience, readability, usability, and conversion path.
++- [Website Trust and Credibility](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Review of trust signals, professionalism, credibility, and visitor confidence.
++- [SEO Fundamentals](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#included): Review of foundational search visibility, page structure, content clarity, and technical indicators.
++- [Website Strategy and Redesign Guidance](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#about): Fit-based recommendations focused on the smallest complete solution.
++
++## About Axis
++
++- [Why Axis Exists](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/#about): Founder-led website strategy for small-business owners who need clear, practical, pressure-free guidance.
++- [Axis Website Growth Audit](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/): Main landing page for the free website audit offer.
++
++## Policies and Confirmation
++
++- [Privacy Policy](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/privacy.html): Information about form submissions and data-handling practices.
++- [Audit Request Confirmation](https://1oldguyinaz-glitch.github.io/axis-website-audit-repo/thank-you.html): Confirmation and next steps after submitting an audit request.
